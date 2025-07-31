@@ -14,3 +14,6 @@ npx tailwindcss init
 tailwindcss setup -> https://www.nativewind.dev/docs/getting-started/installation
 
 npx expo customize metro.config.js
+
+
+https://dribbble.com/shots/15442720-Boxing-Fitness-App
